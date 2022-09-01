@@ -1,1 +1,1 @@
-listing all files (the ones beginning with a period character) in the current and parent working directoryand the /boot directory in a long formate
+a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory

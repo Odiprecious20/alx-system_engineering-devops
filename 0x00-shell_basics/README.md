@@ -1,1 +1,1 @@
-long format, with user and group IDs numerically and hidden files (starting with .)
+creat directory in a directory

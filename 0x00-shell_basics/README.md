@@ -1,1 +1,1 @@
-changes to home directory
+current directory content in long format

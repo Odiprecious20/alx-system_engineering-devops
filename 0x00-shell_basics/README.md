@@ -1,1 +1,1 @@
-creat directory in a directory
+moving file from a directory to another directory

@@ -1,1 +1,1 @@
-copy html files
+a script that changes the working directory to the user’s home directory
